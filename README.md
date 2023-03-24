@@ -1,3 +1,9 @@
-# Education-project-1
+# JavaScript basics 📖
 
-## The project was oriented on using JavaScript objects and functions 
+The JavaScript basics project focuses on utilizing JavaScript objects and function
+
+### 🛠️ Built With:
+
+* JavaScript (ES6)
+
+
